@@ -1,4 +1,4 @@
-# **Golang Image Compression Service**
+# **Golang Image Compression Tool**
 
 This repository contains the code for a Golang-based image compression service that integrates with AWS S3 and AWS Lambda for serverless deployment. The service reduces the file size of images while maintaining their quality, improving storage efficiency and web application performance.
 
