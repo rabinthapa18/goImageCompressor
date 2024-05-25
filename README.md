@@ -86,7 +86,7 @@ In Part 2, we enhance the service with AWS integration and serverless deployment
 - Package the service as a Lambda function and deploy it on AWS Lambda.
 - Create a Docker image for the service for easier deployment and scaling.
 
-For detailed steps, refer to the [Part 2 Blog Post](#) (coming soon).
+For detailed steps, refer to the [Part 2 Blog Post](https://rabinson.hashnode.dev/building-an-image-compression-service-with-golang-aws-s3-and-aws-lambda-1).
 
 ## **Contributing**
 
