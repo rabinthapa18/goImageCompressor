@@ -21,7 +21,6 @@ This project demonstrates how to build an image compression service using Golang
 - Efficient image compression using Golang's `imaging` package.
 - Integration with AWS S3 for storing and retrieving images.
 - Serverless deployment using AWS Lambda.
-- Docker support for easy deployment and scaling.
 
 ## **Getting Started**
 
@@ -29,7 +28,6 @@ This project demonstrates how to build an image compression service using Golang
 
 - Golang installed on your machine. [Download Golang](https://golang.org/dl/)
 - AWS account with access to S3 and Lambda services.
-- Docker installed for creating container images. [Download Docker](https://www.docker.com/get-started)
 
 ### **Installation**
 
@@ -84,7 +82,6 @@ In Part 2, we enhance the service with AWS integration and serverless deployment
 
 - Fetch images from AWS S3, compress them, and save them back to S3.
 - Package the service as a Lambda function and deploy it on AWS Lambda.
-- Create a Docker image for the service for easier deployment and scaling.
 
 For detailed steps, refer to the [Part 2 Blog Post](https://rabinson.hashnode.dev/building-an-image-compression-service-with-golang-aws-s3-and-aws-lambda-1).
 
